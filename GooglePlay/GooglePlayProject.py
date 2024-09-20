@@ -229,23 +229,5 @@ sns.barplot(x=cat_num,y=cat_num.index,data=df)
 plt.title("The Number Of Categories",size=20)
 plt.show()
 
-print("\n************\n")
 
-
-print("\n************\n")
-
-
-print("\n************\n")
-
-
-print("\n************\n")
-
-
-print("\n************\n")
-
-
-print("\n************\n")
-
-
-print("\n************\n")
 
